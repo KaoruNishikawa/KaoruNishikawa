@@ -19,6 +19,6 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaoruNishikawa&count_private=true&show_icons=true&theme=cobalt&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaoruNishikawa&langs_count=8&hide=Jupyter%20Notebook&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaoruNishikawa&langs_count=8&hide=Jupyter%20Notebook&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
