@@ -7,7 +7,7 @@
 | :bread: | Convenient tools |
 | :pizza: | Lab research projects |
 | :chestnut: | Product for someone |
-| :x: | Won't maintained any longer |
+| :x: | Won't be maintained any longer |
 
 ## Gist
 
